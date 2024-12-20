@@ -233,5 +233,11 @@ int main() {
                 break;
         }
     } while (c != -1);
+
+    ///Enter the Name here:  Ex. printf("Alice/n");
+    printf("/n");
+    ///Enter the Roll Number here:  Ex. printf("123456789");
+    printf("");
+
     return 0;
 }
